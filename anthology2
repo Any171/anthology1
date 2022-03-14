@@ -67,6 +67,14 @@
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/TLSmsHm/"
          },
          "last_updated":"1619474400"
+      },
+      "9":{
+         "title":"Footsteps",
+         "volume":"2",
+         "groups":{
+            "Turtlesoup Scans":"/proxy/api/imgur/chapter/BZ0DqxL/"
+         },
+         "last_updated":"1619474400"
       }
    }
 }
